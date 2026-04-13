@@ -2634,6 +2634,23 @@
       "trading_volume": 112.0,
       "vwap": 56664.1964,
       "calc_price": 56680.0
+    },
+    {
+      "captured_at_utc": "2026-04-13T08:23:04Z",
+      "exchange": 24,
+      "symbol": 161050023,
+      "symbol_name": "日経225マイクロ先物 26/05",
+      "current_price": 56700.0,
+      "current_price_time": "2026-04-13T17:22:17+09:00",
+      "previous_close": 56525.0,
+      "change_previous_close": 175.0,
+      "change_previous_close_per": 0.31,
+      "opening_price": 56650.0,
+      "high_price": 56785.0,
+      "low_price": 56630.0,
+      "trading_volume": 516.0,
+      "vwap": 56701.9186,
+      "calc_price": 56700.0
     }
   ],
   "board": [
@@ -5271,6 +5288,23 @@
       "buy2_qty": 27.0,
       "sell2_price": 56700.0,
       "sell2_qty": 8.0
+    },
+    {
+      "captured_at_utc": "2026-04-13T08:23:04Z",
+      "exchange": 24,
+      "symbol": 161050023,
+      "bid_price": 56710.0,
+      "bid_qty": 2.0,
+      "ask_price": 56700.0,
+      "ask_qty": 2.0,
+      "buy1_price": 56700.0,
+      "buy1_qty": 2.0,
+      "sell1_price": 56710.0,
+      "sell1_qty": 2.0,
+      "buy2_price": 56695.0,
+      "buy2_qty": 15.0,
+      "sell2_price": 56715.0,
+      "sell2_qty": 30.0
     }
   ],
   "decisions": [
@@ -7875,6 +7909,23 @@
       "decision": "NO_TRADE",
       "lots": 0,
       "reference_price": 56680.0,
+      "reason": "no trailing-step entry trigger",
+      "null": [
+        "0",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "captured_at_utc": "2026-04-13T08:23:04Z",
+      "exchange": 24,
+      "symbol": 161050023,
+      "decision": "NO_TRADE",
+      "lots": 0,
+      "reference_price": 56700.0,
       "reason": "no trailing-step entry trigger",
       "null": [
         "0",
