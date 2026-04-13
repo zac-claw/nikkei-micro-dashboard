@@ -2345,6 +2345,40 @@
       "trading_volume": 15994.0,
       "vwap": 56488.5335,
       "calc_price": 56435.0
+    },
+    {
+      "captured_at_utc": "2026-04-13T04:46:50Z",
+      "exchange": 23,
+      "symbol": 161050023,
+      "symbol_name": "日経225マイクロ先物 26/05",
+      "current_price": 56490.0,
+      "current_price_time": "2026-04-13T13:46:39+09:00",
+      "previous_close": 56815.0,
+      "change_previous_close": -325.0,
+      "change_previous_close_per": -0.57,
+      "opening_price": 56195.0,
+      "high_price": 56815.0,
+      "low_price": 56100.0,
+      "trading_volume": 16269.0,
+      "vwap": 56488.0552,
+      "calc_price": 56490.0
+    },
+    {
+      "captured_at_utc": "2026-04-13T04:52:32Z",
+      "exchange": 23,
+      "symbol": 161050023,
+      "symbol_name": "日経225マイクロ先物 26/05",
+      "current_price": 56535.0,
+      "current_price_time": "2026-04-13T13:52:29+09:00",
+      "previous_close": 56815.0,
+      "change_previous_close": -280.0,
+      "change_previous_close_per": -0.49,
+      "opening_price": 56195.0,
+      "high_price": 56815.0,
+      "low_price": 56100.0,
+      "trading_volume": 16368.0,
+      "vwap": 56488.2264,
+      "calc_price": 56535.0
     }
   ],
   "board": [
@@ -4693,6 +4727,40 @@
       "buy2_qty": 113.0,
       "sell2_price": 56445.0,
       "sell2_qty": 115.0
+    },
+    {
+      "captured_at_utc": "2026-04-13T04:46:50Z",
+      "exchange": 23,
+      "symbol": 161050023,
+      "bid_price": 56495.0,
+      "bid_qty": 6.0,
+      "ask_price": 56490.0,
+      "ask_qty": 2.0,
+      "buy1_price": 56490.0,
+      "buy1_qty": 2.0,
+      "sell1_price": 56495.0,
+      "sell1_qty": 6.0,
+      "buy2_price": 56485.0,
+      "buy2_qty": 71.0,
+      "sell2_price": 56500.0,
+      "sell2_qty": 17.0
+    },
+    {
+      "captured_at_utc": "2026-04-13T04:52:32Z",
+      "exchange": 23,
+      "symbol": 161050023,
+      "bid_price": 56535.0,
+      "bid_qty": 5.0,
+      "ask_price": 56525.0,
+      "ask_qty": 10.0,
+      "buy1_price": 56525.0,
+      "buy1_qty": 10.0,
+      "sell1_price": 56535.0,
+      "sell1_qty": 5.0,
+      "buy2_price": 56520.0,
+      "buy2_qty": 164.0,
+      "sell2_price": 56540.0,
+      "sell2_qty": 70.0
     }
   ],
   "decisions": [
@@ -7008,6 +7076,40 @@
       "decision": "NO_TRADE",
       "lots": 0,
       "reference_price": 56435.0,
+      "reason": "no trailing-step entry trigger",
+      "null": [
+        "0",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "captured_at_utc": "2026-04-13T04:46:50Z",
+      "exchange": 23,
+      "symbol": 161050023,
+      "decision": "NO_TRADE",
+      "lots": 0,
+      "reference_price": 56490.0,
+      "reason": "no trailing-step entry trigger",
+      "null": [
+        "0",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "captured_at_utc": "2026-04-13T04:52:32Z",
+      "exchange": 23,
+      "symbol": 161050023,
+      "decision": "NO_TRADE",
+      "lots": 0,
+      "reference_price": 56535.0,
       "reason": "no trailing-step entry trigger",
       "null": [
         "0",
